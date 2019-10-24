@@ -12,7 +12,7 @@ public class P374Criogenizacion {
 
 		for(int i=0;i<casos;i++) {
 			//Inicializar las variables para cada caso nuevo
-			max=Long.MIN_VALUE;
+			max=0;
 			min=Long.MAX_VALUE;
 			
 			do{
