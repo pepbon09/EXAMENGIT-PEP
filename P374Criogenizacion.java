@@ -8,7 +8,6 @@ public class P374Criogenizacion {
 		int casos, vecesmax=0, vecesmin=0;
 		long temp, max, min;
 
-		//Se le
 		casos=scn.nextInt();
 
 		for(int i=0;i<casos;i++) {
